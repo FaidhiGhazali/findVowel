@@ -12,5 +12,6 @@
   }
 
     console.log(vowelIndices('apple'));
+    //result: [1,5]
 
 ```
